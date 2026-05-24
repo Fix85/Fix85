@@ -8,8 +8,14 @@
        img.shields.io                               (stack badges)
        komarev.com                                  (profile views)
        github-readme-stats-eight-theta.vercel.app   (stats + top-langs)
-       github-readme-streak-stats.herokuapp.com     (streak)
        github-readme-activity-graph.vercel.app      (contribution graph)
+
+     ⚠️  No streak-stats:
+     github-readme-streak-stats.herokuapp.com hard-codes a white 495x195
+     outer <rect> behind every theme — including theme=transparent — so
+     the card always renders a 1px white halo on a dark profile page.
+     There's no URL param to suppress it.  We dropped the streak card
+     rather than ship a visible rendering glitch.
 
      ⚠️  About the `-eight-theta` mirror:
      The official deployment at github-readme-stats.vercel.app was
@@ -140,21 +146,7 @@ philosophy: >
   />
   <img
     height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Fix85&hide_border=true&background=00000000&stroke=2A2A33&ring=6E6FF5&fire=6E6FF5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6E6FF5&sideLabels=9CA0AA&dates=9CA0AA"
-    alt="Fix85 — current streak"
-  />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/Fix85">
-  <img
-    height="170"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fix85&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&title_color=ffffff&text_color=9CA0AA&hide=html,css&card_width=820"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fix85&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent&title_color=ffffff&text_color=9CA0AA&hide=html,css&card_width=380"
     alt="Fix85 — most used languages"
   />
 </a>
