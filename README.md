@@ -10,16 +10,15 @@
        github-readme-stats-eight-theta.vercel.app   (stats + top-langs)
        github-readme-streak-stats.herokuapp.com     (streak)
        github-readme-activity-graph.vercel.app      (contribution graph)
-       github-profile-trophy.vercel.app             (trophies)
 
      ⚠️  About the `-eight-theta` mirror:
-     The official deployment at github-readme-stats-eight-theta.vercel.app was
+     The official deployment at github-readme-stats.vercel.app was
      DEPLOYMENT_PAUSED by Vercel at authoring time (monthly bandwidth
      limit on the public anuraghazra deployment).  `-eight-theta` is
      a community mirror of the same codebase.  If the mirror ever 404s
-     and the official one comes back online, swap both URLs:
-       https://github-readme-stats-eight-theta.vercel.app/api…
-         →  https://github-readme-stats-eight-theta.vercel.app/api…
+     and the official one comes back online, swap host names:
+       github-readme-stats-eight-theta.vercel.app
+         →  github-readme-stats.vercel.app
      Or vice versa.  Same query-string schema either way.
      ════════════════════════════════════════════════════════════════════ -->
 
@@ -175,23 +174,6 @@ philosophy: >
     src="https://github-readme-activity-graph.vercel.app/graph?username=Fix85&theme=react-dark&hide_border=true&bg_color=00000000&color=FFFFFF&line=6E6FF5&point=FFFFFF&area=true&area_color=6E6FF5&radius=8"
     alt="Fix85 — contribution graph for the last year"
     width="100%"
-  />
-</a>
-
-</div>
-
-<br />
-
-<!-- ─── TROPHIES ────────────────────────────────────────────────── -->
-
-## 🏆 Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Fix85&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12"
-    alt="Fix85 — GitHub achievement trophies"
   />
 </a>
 
