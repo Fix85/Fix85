@@ -141,12 +141,12 @@ philosophy: >
 <a href="https://github.com/Fix85">
   <img
     height="180"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fix85&hide_title=true&hide_border=true&show_icons=true&theme=transparent&title_color=ffffff&text_color=9CA0AA&icon_color=6E6FF5&ring_color=6E6FF5&include_all_commits=true&count_private=true&card_width=440"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fix85&hide_title=true&hide_border=true&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=9CA0AA&icon_color=6E6FF5&ring_color=6E6FF5&include_all_commits=true&count_private=true&card_width=440"
     alt="Fix85 — GitHub stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fix85&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent&title_color=ffffff&text_color=9CA0AA&hide=html,css&card_width=380"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fix85&hide_title=true&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=9CA0AA&hide=html,css&card_width=380"
     alt="Fix85 — most used languages"
   />
 </a>
