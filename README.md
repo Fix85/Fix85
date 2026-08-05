@@ -54,6 +54,10 @@
     <img alt="Public repos"
          src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&style=for-the-badge&labelColor=0E0E12&color=6E6FF5&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFix85" />
   </a>
+  <a href="https://t.me/Fix85Dev" target="_blank">
+    <img alt="Telegram Channel"
+         src="https://img.shields.io/badge/Telegram-Fix85Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0E0E12" />
+  </a>
 </p>
 
 </div>
